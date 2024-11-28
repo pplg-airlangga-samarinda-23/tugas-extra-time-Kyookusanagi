@@ -22,7 +22,7 @@
 
             <button type="submit">Kirim Tautan Reset Password</button>
         </form>
-        <p>Sudah memiliki akun? <a href="login.html">Masuk di sini</a></p>
+        <p>Sudah memiliki akun? <a href="login.php">Masuk di sini</a></p>
     </div>
 </body>
 </html>

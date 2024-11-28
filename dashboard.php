@@ -17,7 +17,7 @@
             <button class="menu-btn">Master Barang</button>
             <button class="menu-btn">Receiving</button>
             <button class="menu-btn">Issuing</button>
-            <button class="menu-btn logout-btn" onclick="window.location.href='login.html'">LogOut</button>
+            <button class="menu-btn logout-btn" onclick="window.location.href='login.php'">LogOut</button>
         </div>
 
         <div class="main-content">
